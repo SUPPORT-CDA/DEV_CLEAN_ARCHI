@@ -2,10 +2,20 @@
 
 ## Dépendances pédagogiques
 
-- POO
-- SOLID
+--- REVISION 
 
-### Architecture 
+- POO  1 jour 
+- SOLID  1 jour 
+- DESIGN PATTERN 2 jours
+- PRESENTATION GENERALE DES ARCHITECTURES  1 jour
+
+--- METHOD 01 
+
+- MERISE
+- BD Modele relationnel 
+- 
+
+### Architecture DEV 1
 
 --- 
 
