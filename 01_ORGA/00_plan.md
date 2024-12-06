@@ -21,7 +21,7 @@
 
 ### Projet #1
 
-1. Projet [projet #1](#)
+1. Projet [projet #1]()
    1. prendre connaissance du projet et s'organiser (notion.so)
    2. analyse des besoins, tableau des fonctionnalités
    3. veille technologique
