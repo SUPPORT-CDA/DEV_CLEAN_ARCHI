@@ -40,8 +40,8 @@ app.listen(3000, () => console.log('Server running on port 3000'));
 
 #### Problèmes :
 1. **Couplage fort** : La logique métier (validation, vérification des doublons) est directement imbriquée dans le contrôleur.
-2. **Dépendance directe à MongoDB** : Impossible de changer facilement la base de données.
-3. **Difficile à tester** : Les tests nécessitent une base MongoDB fonctionnelle.
+2. **Dépendance directe avec les données** : Impossible de changer facilement le lien avec les données
+3. **Difficile à tester**.
 4. **Pas de séparation des préoccupations** : Tout est mélangé.
 
 ---
