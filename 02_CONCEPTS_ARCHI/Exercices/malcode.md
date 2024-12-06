@@ -48,6 +48,6 @@ app.listen(3000, () => console.log('Server running on port 3000'));
 
 ### Étape 2 : Refactorisation en Clean Architecture
 
-Nous allons structurer le code en suivant les couches de la Clean Architecture : **Entités**, **Cas d’utilisation**, **Interfaces**, et **Adapteurs** et **Controller**
+Structurez le code en suivant les couches de la Clean Architecture : **Entités**, **Cas d’utilisation**, **Interfaces**, et **Adapteurs** et **Controller**
 
 
