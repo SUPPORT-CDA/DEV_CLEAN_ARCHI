@@ -1,6 +1,6 @@
 # Plan du cours
 
-## Dépendances pédagogique 
+## Dépendances pédagogiques
 
 - POO
 - SOLID
