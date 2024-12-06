@@ -4,16 +4,26 @@
 
 --- REVISION 
 
-- POO  1 jour 
-- SOLID  1 jour 
-- DESIGN PATTERN 2 jours
-- PRESENTATION GENERALE DES ARCHITECTURES  1 jour
-
---- METHOD 01 
-
-- MERISE
-- BD Modele relationnel 
+- POO + SOLID                                               1 jour 
+- BDD SQL & NoSQL                                           1 jour 
+- DESIGN PATTERN & PRESENTATION GENERALE DES ARCHITECTURES  1 jour
+- Méthodes de gestion de pprojet                            1 jour
 - 
+
+--- METHODOLOGIE 01 
+
+- UML                                                       2 jours
+- Merise                                                    1 jour
+- Projet                                                    1 jour
+- Restitution de projet                                     1 jour
+
+--- METHODOLOGIE 02 
+
+- LEAN & Agilité & Manifeste Agile                          1 jour
+- Méthodes Agiles                                           2 jours
+- Projet                                                    1 jour
+- Restitution de projet                                     1 jour
+
 
 ### Architecture DEV 1
 
