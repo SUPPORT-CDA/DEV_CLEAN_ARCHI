@@ -41,12 +41,12 @@
 
 ## Jour 3, 4, 5
 
-1. Projet [projet #1]()
-   1. prendre connaissance du projet et s'organiser (notion.so)
-   2. analyse des besoins, tableau des fonctionnalités
-   3. veille technologique
-   4. Création des maquettes avec Figma.
-
+1. Projet [projet dev#2 cookify](../05_PROJET/projet_dev#2.md) 
+   1. Compétence à couvrir par ce projet : [référentiel](../05_PROJET/projet_dev#2_competences.md)
+      1. Utilisez le template suivant pour présenter le projet [template](../05_PROJET/template.md)
+      2. Vous avez le code source de l'API à installer dans le repository suivant : #REPO TODO
+   2. Rappels des compétences de la CDA [reac](../05_PROJET/reac.md)
+  
 ---
 
 <span style="color:purple">Les chapitres Bonus à lire pour la culture générale.</span>

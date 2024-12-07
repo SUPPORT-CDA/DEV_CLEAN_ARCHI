@@ -1,5 +1,0 @@
-# Activités
-
-# Compétences
-
-# Savoir faire
