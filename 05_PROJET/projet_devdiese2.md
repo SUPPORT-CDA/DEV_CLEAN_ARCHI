@@ -1,5 +1,11 @@
 ### **Sujet : Cookify - Gestionnaire de Recettes Culinaires avec Planificateur de Menus**  
 
+### Plan du cours général
+
+[plan du cours](../../01_ORGA/00_plan.md)
+
+## Sujet
+
 <img src="../images/logo.png" width="200" />
 
 ---

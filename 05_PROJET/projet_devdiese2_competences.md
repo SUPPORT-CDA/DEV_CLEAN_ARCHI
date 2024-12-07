@@ -1,5 +1,11 @@
 Voici un tableau indiquant les compétences et savoir-faire **validés** par le projet "Gestionnaire de Recettes Culinaires avec Planificateur de Menus", basé sur les référentiels partagés :
 
+### Plan du cours général
+
+[plan du cours](../../01_ORGA/00_plan.md)
+
+## Compétences
+
 ---
 
 ### **Compétences validées par le projet**
@@ -46,5 +52,3 @@ Voici un tableau indiquant les compétences et savoir-faire **validés** par le 
 - **Sécurité et tests avancés** (tests unitaires, intégration continue, DevOps).  
 - **Collaboration et planification avancée** (exemple : gestion d'équipe, outils comme Trello).  
 - **Design patterns complexes** (exemple : MVC).  
-
-Le projet reste réalisable en 3 jours tout en validant une large partie des compétences pratiques !
