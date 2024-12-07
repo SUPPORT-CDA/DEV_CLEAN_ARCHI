@@ -2,7 +2,7 @@ Voici un tableau indiquant les compétences et savoir-faire **validés** par le 
 
 ### Plan du cours général
 
-[plan du cours](../../01_ORGA/00_plan.md)
+[plan du cours](../01_ORGA/00_plan.md)
 
 ## Compétences
 
@@ -52,3 +52,7 @@ Voici un tableau indiquant les compétences et savoir-faire **validés** par le 
 - **Sécurité et tests avancés** (tests unitaires, intégration continue, DevOps).  
 - **Collaboration et planification avancée** (exemple : gestion d'équipe, outils comme Trello).  
 - **Design patterns complexes** (exemple : MVC).  
+
+### Plan du cours général
+
+[plan du cours](../01_ORGA/00_plan.md)

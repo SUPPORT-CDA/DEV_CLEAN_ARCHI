@@ -2,7 +2,7 @@
 
 ### Plan du cours général
 
-[plan du cours](../../01_ORGA/00_plan.md)
+[plan du cours](../01_ORGA/00_plan.md)
 
 ## Sujet
 
@@ -114,3 +114,7 @@ Vous êtes chargé de développer une application permettant de gérer des recet
 3. **Application déployée** : Accessible sur une plateforme comme Vercel ou Netlify.  
 
 ---
+
+### Plan du cours général
+
+[plan du cours](../01_ORGA/00_plan.md)
